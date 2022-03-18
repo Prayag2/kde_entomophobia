@@ -10,4 +10,4 @@ X-KDE-PluginInfo-Name=entomophobia
 X-KDE-PluginInfo-Version=v1
 X-KDE-PluginInfo-Website=https://github.com/prayag2/kde_entomophobia
 X-KDE-ServiceTypes=Plasma/LookAndFeel
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/ID,kns://plasma-themes.knsrc/api.kde-look.org/1462611,kns://icons.knsrc/api.kde-look.org/1651940,kns://wallpaper.knsrc/api.kde-look.org/ID
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1739729,kns://plasma-themes.knsrc/api.kde-look.org/1462611,kns://icons.knsrc/api.kde-look.org/1651940,kns://wallpaper.knsrc/api.kde-look.org/1739730
