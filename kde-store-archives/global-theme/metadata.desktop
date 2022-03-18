@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Short Description
+Name=Theme Name
+X-KDE-PluginInfo-Author=prayagjain
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=prayagjain2@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=theme-name
+X-KDE-PluginInfo-Version=v1
+X-KDE-PluginInfo-Website=https://github.com/prayag2/kde_theme-name
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/ID,kns://plasma-themes.knsrc/api.kde-look.org/ID,kns://icons.knsrc/api.kde-look.org/ID,kns://wallpaper.knsrc/api.kde-look.org/ID
